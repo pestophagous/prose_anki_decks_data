@@ -1,0 +1,56 @@
+;;metadata
+title: Simplemente Gracias
+composer: Edén Muñoz
+year: 2019
+
+;;horas
+No siento las @@horas cuando estoy contigo
+Me encanta porque todo lo ves @@positivo
+
+;;lunares
+Amo tus @@lunares y tus cicatrices
+Dime en este tiempo dónde te @@metiste
+Que no te podía @@encontrar
+
+;;buencamino
+No sé si fue dios o tal vez fue el @@destino
+Lo único que sé, vamos por buen @@camino
+
+;;todas
+Estaré contigo por todas las @@vidas
+@@Recordar quien eres por si un día lo olvidas
+Por ti haría @@eso y más
+
+;;teinventaría
+Y si no @@existieras yo te inventaría
+Mismo @@corazón y la misma sonrisa
+Eres mi razón, mi paz, mi sol, mi @@trigo
+Simplemente @@gracias por estar conmigo
+
+;;brazos
+Aquí están mis @@brazos, siéntete segura
+Que para tus @@miedos yo tengo la cura
+Eres lo que @@tanto a dios yo le pedía
+No voy a defraudarte, solo en mí @@confía
+
+;;estrellas
+Y si miras para el cielo y no hay @@estrellas,
+no me @@culpes
+Pues te las @@merecías
+
+;;teinventaría
+Y si no @@existieras yo te inventaría
+Mismo @@corazón y la misma sonrisa
+Eres mi razón, mi paz, mi sol, mi @@trigo
+Simplemente @@gracias por estar conmigo
+
+;;brazos
+Aquí están mis @@brazos, siéntete segura
+Que para tus @@miedos yo tengo la cura
+Eres lo que @@tanto a dios yo le pedía
+No voy a defraudarte, solo en mí @@confía
+
+;;estrellas
+Y si miras para el cielo y no hay @@estrellas,
+no me @@culpes
+Pues te las @@merecías
